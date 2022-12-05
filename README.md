@@ -13,3 +13,7 @@ This data set, provided by Instacart and CareerFoundry, contains:
 Original data sources:
 </br>https://www.instacart.com/datasets/grocery-shopping-2017
 </br>https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip
+</br>
+</br>
+Final report:
+</br>https://github.com/aSherwyn/Instacart-Basket-Analysis/blob/3e62dd079d6cf07fdfd8cb2684b23506be7fd779/05%20Sent%20to%20Client/Instacart%20Grocery%20Basket%20Analysis.xlsx
