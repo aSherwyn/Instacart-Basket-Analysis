@@ -1,5 +1,5 @@
 # Instacart Basket Analysis
-This student project uses Python via Jupyter notebooks to conduct sales and marketing profile analysees using actual Instacart sales data and ficticious customer data as part of CareerFoundry's Data Analytics Immersion program.
+This project uses Python via Jupyter notebooks to conduct sales and marketing profile analysees using actual Instacart sales data and ficticious customer data as part of CareerFoundry's Data Analytics Immersion program.
 ## Overview
 Instacart, an online grocery store that operates through an app, want to uncover more information about their sales patterns. Their marketing department would like an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria. Establish preliminary marketing groups and basic sales patterns within these groups, as well as over-all departmental patterns.
 ## Data
